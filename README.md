@@ -6,6 +6,10 @@ Red Well to Coyote Gulch is a 27.7 mile moderately trafficked out and back trail
 
 ## Details
 
+Start/end location: 37.43,-111.146
+
+Declination: 10.40° E ± 0.36°
+
 Length: 27.7 mi
 
 Elevation gain: 3,766 ft
